@@ -1,0 +1,19 @@
+body {
+    font-family: helvetica;
+    color: #052a4a;
+    height: 100px;
+
+}
+#greeting {
+    font-size: 30px;
+}
+#joke {
+    font-size: 25px;
+}
+#ending {
+    font-size: 30px;
+}
+.container {
+    min-width: 100%;
+    background-image: url("./resources/couch.png");
+}
